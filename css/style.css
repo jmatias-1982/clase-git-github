@@ -3,10 +3,10 @@ p{
     color: brown;
 }
 h1{
-    color: blue;
+    color: blue; text-decoration: overline underlineq;
 }
 h4{
-    color: darkolivegreen;
+    color: rgb(0, 0, 0);
 }
 img{
     width: 200px;
@@ -14,4 +14,11 @@ img{
 } class{
     width: 500px;
     height: auto;
+} 
+p {
+    font-size: 20px
 }
+ul{list-style: square;
+    }
+
+
