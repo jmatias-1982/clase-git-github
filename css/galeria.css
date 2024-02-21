@@ -1,8 +1,3 @@
-*{ /*reset global sacamos el margen y padding que trae por defecto el navegador*/
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 html {
     font-size: 62.5%;
@@ -44,25 +39,3 @@ image{
     font-weight:bolder;
     border-bottom: 3px solid
 }
-
-.termino{
-       display: flex;
-    justify-content: center;
-   
-}
-.imagen-pricipal{
-display: flex;
-flex-wrap: wrap;
-width:50px;
-;
-}
-
-.logo-pie {
-    width: 200px;
-    height: 150px;
-    display: flex;
-}
-.pie {
-
-}
-
